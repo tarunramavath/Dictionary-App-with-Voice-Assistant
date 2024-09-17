@@ -23,3 +23,6 @@ The following Python libraries are required to run this project:
 1. Launch the application.
 2. Enter a word into the input field and press the "Speak Meaning" button.
 3. The app will display the meaning and speak it aloud.
+
+
+![Screenshot 2024-09-17 154020](https://github.com/user-attachments/assets/3e2e36a5-d4e9-40f1-86c3-d0ae56d3961c)
